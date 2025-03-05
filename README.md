@@ -1,4 +1,4 @@
-Após concluir o curso de Business Intelligence, apliquei os conhecimentos adquiridos para construir um Dashboard interativo para a Gatitos Pet Shop utilizando a ferramenta Power BI. O objetivo foi analisar dados de vendas e desempenho da loja, criando visualizações eficazes para apoiar a tomada de decisões.
+Após concluir o meu primeiro curso de Business Intelligence, apliquei os conhecimentos adquiridos para construir um Dashboard interativo para a Gatitos Pet Shop utilizando a ferramenta Power BI. O objetivo foi analisar dados de vendas e desempenho da loja, criando visualizações eficazes para apoiar a tomada de decisões.
 
 Durante o processo, realizei as seguintes etapas:
 
