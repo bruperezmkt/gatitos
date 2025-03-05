@@ -12,3 +12,4 @@ Durante o processo, realizei as seguintes etapas:
   
 - Estilização do dashboard: Personalizei a interface com cartões estilizados, imagens de fundo e gráficos personalizados, garantindo uma apresentação visualmente atraente e intuitiva.
   
+![](/Gatitos - PetShop_page-0001.png)
